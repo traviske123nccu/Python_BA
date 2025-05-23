@@ -465,7 +465,7 @@ if not st.session_state.logged_in:
                         print("✅ Saved USER_DB")
                 except Exception as e:
                     st.error(f"⚠️ Error saving user: {e}")
-                    return
+                    
 
                 st.session_state.logged_in = True # Change the session state from not logged in to logged in
                 st.session_state.user_profile = USER_DB[new_user] # Log in with the new user's profile
