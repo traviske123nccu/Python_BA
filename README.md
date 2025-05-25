@@ -44,3 +44,7 @@ We made an APP with this code! **Watch this video to find out how!**  [https://y
 
     - This is, though may seem unecessary, is just an extra proof that our code works, just not on ipynb, and I explained it clearly why it doesn't.
 </div>
+
+## The Next Part of our Project
+
+In the next part, which is also the finale, we published a package with PyPi.org. Check out this repo to find out more: [https://github.com/traviske123nccu/pynutlib](https://github.com/traviske123nccu/pynutlib)
