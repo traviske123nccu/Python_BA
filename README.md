@@ -4,6 +4,8 @@ This is the final project for our Python-based business analytics course. The pr
 
 ## Project Overview
 
+Here is a video version of the Overview: [https://youtu.be/ET7IY8N7i4I](https://youtu.be/ET7IY8N7i4I)
+
 The app allows users to:
 1. Input personal information (age, gender, height, weight, activity level, and dietary goal).
 2. Calculate their Total Energy Expenditure (TEE) based on official reference values.
