@@ -395,7 +395,7 @@ with col_logo:
     st.image(logo_url, width=150)  # Display logo image at defined width
 
 with col_title:
-    st.markdown("## Nutrition App 2.5.5 Final")  # Main title (Markdown style)
+    st.markdown("## Pynut")  # Main title (Markdown style)
     st.caption("Your personalized guide to smarter food choices!")  # Subtitle or tagline
     st.caption("A Python Project Created by Group 02 with Python and Streamlit")  # Credit line
 
