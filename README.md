@@ -34,7 +34,7 @@ The app allows users to:
 
 ## Disclaimer
 
-In Section 1, we made an APP with this code! **Watch this video to find out how!**  [https://youtu.be/6gwox5OGmuE?si=0IlKHI2pz2bYLKn6](https://youtu.be/6gwox5OGmuE?si=0IlKHI2pz2bYLKn6) 
+We made an APP with this code! **Watch this video to find out how!**  [https://youtu.be/6gwox5OGmuE?si=0IlKHI2pz2bYLKn6](https://youtu.be/6gwox5OGmuE?si=0IlKHI2pz2bYLKn6) 
 
 - We built the app with a Python Package called **Streamlit** which we highly recommend to include in the curriculum next year! 
 
