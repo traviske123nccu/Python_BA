@@ -39,11 +39,8 @@ In Section 1, we made an APP with this code! **Watch this video to find out how!
 - We built the app with a Python Package called **Streamlit** which we highly recommend to include in the curriculum next year! 
 
 - The final product(App) can be viewed through this link: [https://pyprofinal02.streamlit.app/](https://pyprofinal02.streamlit.app/)
-
-<div class="alert alert-warning">
-<b>Caution:</b> 
     
-**Why our file doesn't work in `.ipynb`** and how you can run it **locally** (**please check out this video for clarification**): [https://youtube.com/live/1E-Adt9oS94?feature=share](https://youtube.com/live/1E-Adt9oS94?feature=share)
+- **Why our file doesn't work in `.ipynb`** and how you can run it **locally** (**please check out this video for clarification**): [https://youtube.com/live/1E-Adt9oS94?feature=share](https://youtube.com/live/1E-Adt9oS94?feature=share)
 
-- This is, though may seem unecessary, is just an extra proof that our code works, just not on ipynb, and I explained it clearly why it doesn't.
+    - This is, though may seem unecessary, is just an extra proof that our code works, just not on ipynb, and I explained it clearly why it doesn't.
 </div>
