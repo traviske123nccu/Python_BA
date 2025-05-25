@@ -558,11 +558,11 @@ if "user_profile" in st.session_state:
         st.subheader(
             f"🏆 Top Foods for '{keyword}' (Goal: {goal.replace('_', ' ').title()})"
         )
-        st.dataframe(scored.head(20))  # Show table with ranking
+        st.dataframe(scored.head(10))  # Show table with ranking
 
         # --- Show radar charts for each food item ---
         cols = st.columns(2)  # Two-column layout for radar charts
-        for i, (_, row) in enumerate(scored.head(20).iterrows()):
+        for i, (_, row) in enumerate(scored.head(10).iterrows()):
             with cols[i % 2]:
                 st.markdown(f"#### 🥗 {row['Food']} – {row['Brand']}")
                 plot_radar_chart(row)
